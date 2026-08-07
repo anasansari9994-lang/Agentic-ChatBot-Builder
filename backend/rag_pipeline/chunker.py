@@ -11,4 +11,3 @@ from llama_index.embedding.huggingface import HuggingFaceEmbedding
 from core.state import state
 from core.setting import setting
 
-def _
